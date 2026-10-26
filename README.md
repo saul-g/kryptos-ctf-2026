@@ -6,7 +6,7 @@ el enfoque utilizado y, las clave.
 
 ## Retos
 
-- [Introducción](./intro.md)
+- [Intro](./intro.md)
 - [PK1](./pk1.md)
 - [PK2](./pk2.md)
 - [PK3](./pk3.md)
