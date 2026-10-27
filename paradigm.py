@@ -255,3 +255,4 @@ def consultar_consola():
 # Ejecuta el entorno interactivo
 if __name__ == "__main__":
     consultar_consola()
+
